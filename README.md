@@ -98,6 +98,7 @@ Commit 格式为：emoji 博客名
   * :arrow_up:：表示更新了一个友链的信息。
   * :triangular_flag_on_post:：表示标记或暂时移除了一个友链。
   * :heavy_minus_sign:：表示彻底移除了一个友链。
+  * :art:: 杂项
 
 如因站点大事（更换域名和改名等）更新则 commit 记录中带有 :sparkles: 。
 
