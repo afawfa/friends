@@ -147,3 +147,10 @@
   desc: 明日登峰须造极，渺观宇宙我心宽
   email: itpours@qq.com
   color: "#FF1493" #css color:DeepPink
+- blog: caij blog
+  name: i.miiiku
+  url: https://i.miiiku.com/
+  avatar: https://i.miiiku.com/archives/
+  desc: 一个caij的博客
+  email: i@miiiku.com
+  color: "#00dd00"
